@@ -2,10 +2,10 @@
   "name": "weatherapp",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main":  "C:\\Users\\R.T\\OneDrive\\Desktop\\project\\src\\app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node src/app.js"
+    "start": "nodemon app.js"
   },
   "author": "thapa technical",
   "license": "ISC",
